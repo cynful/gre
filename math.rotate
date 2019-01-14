@@ -89,3 +89,31 @@ c = 5
 
 S.
 c = 5
+
+Q.
+Any buyer of a new sports car has to pick between 2 of 5 options for seat colors and 3 of 4 options for dashboard accessories.  How many different combinations of colors and dashboard options are available to this buyer?
+
+A.
+5
+6
+20
+40
+396
+
+S.
+40
+
+Q.
+721(413) + 211(721) is equal to which of the following?
+
+A.
+(721 + 211)(413 + 721)
+721(413 + 211)
+(721 + 413)(211 +721)
+413(721 + 211)
+211(413 + 721)
+
+S.
+721(413 + 211)
+
+EOF
