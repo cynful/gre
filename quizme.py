@@ -2,14 +2,6 @@
 
 import sys
 
-def getinfo(filename):
-    infolist = list()
-    line = filename.readline()
-    while line.strip() != '\n':
-        infolist.append(line.strip())
-        line = filename.readline()
-    print(infolist)
-
 def readinquiz(filename):
     f = open(filename)
     for line in f:
